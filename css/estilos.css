@@ -12,3 +12,10 @@ h1{
 h2{
     color: blue;
 }
+
+footer{
+    background-color: aquamarine;
+}
+footer p{
+    color: brown;
+}
